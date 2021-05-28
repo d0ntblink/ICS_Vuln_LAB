@@ -1,4 +1,5 @@
 # FULL REPORT ON THE [WIKI](https://github.com/d0ntblink/ICS_Vuln_LAB/wiki)!!
+# FOR INFORMATION ABOUT SETTING UP THE LAB REFER TO [CONFIGURATION](https://github.com/d0ntblink/ICS_Vuln_LAB/wiki/5-Configuration)
 # 1.1	ABOUT<br>
 This document is a report concerning our culminating INCS (Industrial Network Cybersecurity) project at BCIT (British Columbia Institute of Technology). In short, our project goal was to create, assess, test, secure, and reassess an IACS (Industrial Automated Control System) network. We have drawn on networking, system administration, cybersecurity, industrial control, and other skills learned throughout the INCS program.<br>
 Our project timeline spanned April 26th, 2021, through May 27th, 2021. On May 25th, we showcased our work at the BCIT Campus INCS lab, and on May 27th we gave a PowerPoint presentation via Zoom, which included a Q&A period.<br>
